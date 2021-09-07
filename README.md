@@ -7,11 +7,9 @@ Review this server's specs and fill the next values:
 - Local IP Address:
 - Linux Distro name and version:
 
-In this directory, there's a file called names.txt, with that file:
+Create a file called names.txt and paste the contents of the file in this repo into the file.
 
-- View its contents
 - List all of the names, sorted. Save it in a file called "sorted-names.txt"
 - Sort the whole file, using the "Number" column as the sorting column.
-- Find a file named "password" and get its contents
 
 
