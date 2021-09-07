@@ -12,7 +12,8 @@ Create a file called names.txt and paste the contents of the file in this repo i
 Using cli commands do the following tasks:
 
 - Find the row for "Juan"
-- List just the names in the names.txt. 
-- List the contents of the names.txt file, sorted using the "Number" column.
+- Find the number of lines in the file.
+- List just the names. 
+- List the contents, sorted using the "Number" column.
 
 
