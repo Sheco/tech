@@ -1,4 +1,4 @@
-Review this server's specs and fill the next values:
+Review this server's specs and let me know the next values for the next items:
 
 - CPU Model:
 - Total RAM:
